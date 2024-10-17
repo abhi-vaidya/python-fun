@@ -81,10 +81,5 @@ def playsnakesandladders():
          print("Exiting game")
          break            
       
-                       
-      
-      
-      
-
-
+#Play Game                       
 playsnakesandladders()
